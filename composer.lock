@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f8ab6cfa7944b81e57e077971e5b4465",
-    "content-hash": "e6a85f27b53afa7ded66cd1e4f7c8695",
+    "hash": "68ab2f9d4b8925529dde565564db2418",
+    "content-hash": "7a0d9d0bf457973c62f9cd3d5c4d1136",
     "packages": [
         {
             "name": "kisphp/thumbnails",

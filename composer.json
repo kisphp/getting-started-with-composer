@@ -1,4 +1,14 @@
 {
+  "name": "kisphp/getting-started-with-composer",
+  "description": "Getting started with composer tutorial files",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marius Bogdan Rizac",
+      "email": "mariusbogdan83@gmail.com",
+      "homepage": "http://www.kisphp.com"
+    }
+  ],
   "require": {
     "kisphp/thumbnails": "~1.1"
   },
