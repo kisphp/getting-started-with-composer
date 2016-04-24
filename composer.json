@@ -1,0 +1,10 @@
+{
+  "require": {
+    "kisphp/thumbnails": "~1.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f8ab6cfa7944b81e57e077971e5b4465",
+    "content-hash": "e6a85f27b53afa7ded66cd1e4f7c8695",
+    "packages": [
+        {
+            "name": "kisphp/thumbnails",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kisphp/thumbnails.git",
+                "reference": "5740dadb71a9244d4f92936fcda219d9d26378c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kisphp/thumbnails/zipball/5740dadb71a9244d4f92936fcda219d9d26378c1",
+                "reference": "5740dadb71a9244d4f92936fcda219d9d26378c1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Kisphp": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marius Bogdan Rizac",
+                    "email": "mariusbogdan83@gmail.com",
+                    "homepage": "http://www.kisphp.com",
+                    "role": "Developer, owner"
+                }
+            ],
+            "description": "Kisphp thumbnails generator",
+            "time": "2016-03-23 17:45:02"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
